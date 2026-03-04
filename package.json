@@ -17,6 +17,7 @@
     "vite": "^7.2.4"
   },
   "dependencies": {
-    "@lottiefiles/dotlottie-web": "^0.64.2"
+    "@lottiefiles/dotlottie-web": "^0.64.2",
+    "swiper": "^12.1.2"
   }
 }
